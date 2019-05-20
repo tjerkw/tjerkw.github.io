@@ -1,6 +1,6 @@
 # Site settings
 title: Tjerk Wolterink
-description: 'Tjerk Wolterink - Personal Website'
+description: 'Tjerk Wolterink - Lead Software Engineer'
 url: 'http://tjerkwolterink.com'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,10 +8,21 @@ baseurl: '/'
 
 author:
   name: 'Tjerk Wolterink'
-  email: tjerkw@++++.com
   twitter_username: tjerkw
   github_username:  tjerkw
   linkedin_username:  tjerkwolterink
+  medium: tjerk
+#  reddit: yourname
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
 
 defaults:
   -
